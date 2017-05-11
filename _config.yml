@@ -1,8 +1,7 @@
 # Site settings
-title: The map is the territory
-email: your-email@domain.com
+title: Charles's Investigations
 description: > 
-  Charles Patterson's blog that saves ideas, concepts, definitions, etc.
+  Charles Patterson's blog that saves ideas, concepts, definitions, and discussions thereof
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: CharlesPatterson 
