@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Time"
+date:   2017-05-10 18:33:56 -0500
+categories: concepts
+excerpt: 
+---
+
+[Allen's Interval Algebra](https://en.wikipedia.org/wiki/Allen%27s_interval_algebra) - A set of 13 relations that allow you to comprehensively reason about two temporal events
