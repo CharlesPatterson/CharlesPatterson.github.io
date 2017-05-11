@@ -1,7 +1,7 @@
 # Site settings
 title: Charles's Investigations
 description: > 
-  Charles Patterson's blog that saves ideas, concepts, definitions, and discussions thereof
+  Charles Patterson's blog that saves ideas, concepts, definitions, code snippets, reminders, lists, etc.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: CharlesPatterson 
