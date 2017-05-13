@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "OODA Loops"
+date:   2017-05-12 20:30:00 -0500
+categories: concepts
+excerpt: 
+---
+
+John Boyd revolutionized warfare both in the air and otherwise by conceptualizing feedback loops under military contexts.
+
+**OODA** - Observe, Orient, Decide, Act
+
+Boyd's point was that in any competition between two actors, the one that can execute more OODA loops has a significant advantage.
+
+Using this simple model he demonstrated that the United States' aircraft were dwarfed in capability compared to the Russians and helped the U.S. win Operation Desert Storm.
