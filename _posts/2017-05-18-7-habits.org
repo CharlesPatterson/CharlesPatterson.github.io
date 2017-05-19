@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "7 Habits of Highly Effective People"
+date:   2017-05-18 20:30:00 -0500
+categories: concepts
+excerpt: 
+---
+
+Steve Covey advocates the use of these principles for success:
+
+1. Be Proactive
+2. Begin with the End in Mind
+3. Put First Things First
+4. Think Win-Win
+5. Seek First to Understand, Then to be Understood
+6. Synergize
+7. Sharpen the Saw
