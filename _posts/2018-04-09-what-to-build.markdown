@@ -6,7 +6,7 @@ categories: questions
 excerpt: 
 ---
 
-What can I build? A junior engineer posed this today after a walk and tea, albeit not so explicitly. 
+What can I build? A junior engineer asked me this, saying he couldn't think of any good personal project idea.
 
 I can relate. The common advice is to scratch an itch, but it's hard to find much itching with all the convenience today.
 
